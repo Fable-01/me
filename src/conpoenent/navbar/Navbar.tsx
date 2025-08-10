@@ -8,7 +8,7 @@ const Navbar = () => {
      <Button className=" border border-neutral-400 hover:bg-neutral-800" >HOME</Button>
      </Link>
        <Link to='favourite'>
-       <Button className=" border border-neutral-400 hover:bg-neutral-800">fobver</Button>
+       <Button className=" border border-neutral-400 hover:bg-neutral-800">Favourite</Button>
        </Link>
     </div>
   );
